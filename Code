@@ -1,17 +1,1 @@
-Get-Command -Name Copy-Item
 
-Get-Command -Name Remove-Item
-
-Get-Command -Name Set-Location
-
-Get-Command -Name New-Item
-
-Get-Command -Name Get-Help
-
-Get-Command -Name Get-History
-
-Get-Command -Name Set-Alias
-
-Get-Command -Name Get-Alias
-
-Get-Command -Name Get-Content
